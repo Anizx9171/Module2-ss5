@@ -1,0 +1,22 @@
+.ta-button {
+    height: 2.2rem;
+    border: 1px;
+    border-radius: 3px;
+    outline: none;
+    color: #ffffff;
+    min-width: 4.8rem;
+    cursor: pointer;
+    padding: 0.2rem 1rem;
+}
+
+.ta-button-primary {
+    background-color: rgb(56 189 248) !important;
+}
+
+.ta-button-primary:hover {
+    background-color: rgb(2 132 199) !important;
+}
+
+.ta-button-primary:active {
+    background-color: rgb(3 105 161) !important;
+}
